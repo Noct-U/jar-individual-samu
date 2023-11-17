@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="projeto-individual:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a777818-93c5-499b-80a0-d41b05539756" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/.idea/artifacts/noctu_looca_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/.idea/artifacts/projeto_individual_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/.idea/jar-individual-samu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/out/artifacts/projeto_individual_jar/projeto-individual.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/dao/Conexao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/dao/NoctuDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/database/Conexao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/teste/Captura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/teste/Componente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/teste/Hardware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/teste/TestePrototipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/teste/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/target/classes/dao/Conexao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/target/classes/dao/NoctuDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/target/classes/database/Conexao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/target/classes/teste/Captura.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/target/classes/teste/Componente$Captura.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/target/classes/teste/Componente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/target/classes/teste/Hardware.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/target/classes/teste/TestePrototipo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/target/classes/teste/Usuario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/target/projeto-individual-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script-instalacao/DockerComandosUteis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script-instalacao/ScriptInstalacao.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script-instalacao/comandosUteis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script-instalacao/confBanco.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script-instalacao/dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script-instalacao/explicacoes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script-instalacao/install.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script-instalacao/java.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script-instalacao/orientações.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/noctu_looca_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/projeto_individual_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jar-individual-samu.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/projeto_individual_jar/projeto-individual.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dao/Conexao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dao/NoctuDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/database/Conexao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/teste/Captura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/teste/Componente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/teste/Hardware.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/teste/TestePrototipo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/teste/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dao/Conexao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dao/NoctuDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/database/Conexao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/teste/Captura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/teste/Componente$Captura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/teste/Componente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/teste/Hardware.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/teste/TestePrototipo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/teste/Usuario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/projeto-individual-1.0-SNAPSHOT.jar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2WUml44OsgbQYyHl8U6X1jPBYjk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Aluno/Documents/repositórios/jar-individual-samu",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.TestePrototipo">
+    <configuration name="TestePrototipo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teste.TestePrototipo" />
+      <module name="projeto-individual" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestePrototipo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teste.TestePrototipo" />
+      <module name="projeto-individual" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestePrototipo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teste.TestePrototipo" />
+      <module name="projeto-individual" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestePrototipo (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teste.TestePrototipo" />
+      <module name="projeto-individual" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestePrototipo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teste.TestePrototipo" />
+      <module name="projeto-individual" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestePrototipo" />
+        <item itemvalue="Application.TestePrototipo (4)" />
+        <item itemvalue="Application.TestePrototipo (3)" />
+        <item itemvalue="Application.TestePrototipo (2)" />
+        <item itemvalue="Application.TestePrototipo (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a777818-93c5-499b-80a0-d41b05539756" name="Changes" comment="" />
+      <created>1696795681342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696795681342</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

@@ -130,19 +130,19 @@ fi
 
 #executando Docker
 sleep 15
-if sudo docker exec -i Noctu mysql -u root -paluno < /home/ubuntu/scriptInstalacao/confBanco.sql; then
+if sudo docker exec -i Noctu mysql -u root -p aluno < /home/ubuntu/jar-individual-samu/script-instalacao/confBanco.sql; then
     echo "..."
     echo -e "\033[${PURPLE}m[Noct.u]:${NC} Docker Noct.u executado com sucesso!"
     echo "..."
 else
     echo "..."
     echo -e "\033[${PURPLE}m[Noct.u]:${NC} Erro ao executar o docker."
-    echo -e "\033[${PURPLE}m[Noct.u]:${NC} Entre em contato com a equipe NOct.u e informe o comando = docker exec -it Noctu mysql -u aluno -paluno <caminhoScript"
+    echo -e "\033[${PURPLE}m[Noct.u]:${NC} Entre em contato com a equipe NOct.u e informe o comando = docker exec -it Noctu mysql -u aluno -p aluno <caminhoScript"
     echo "..."
     exit 1
 fi
 
-sudo chmod +x /home/ubuntu/noctu/script/java.sh
+sudo chmod +x /home/ubuntu/jar-individual-samu/script-instalacao/java.sh
 
 ./java.sh
 

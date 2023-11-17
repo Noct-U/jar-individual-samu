@@ -9,85 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a777818-93c5-499b-80a0-d41b05539756" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/.idea/artifacts/noctu_looca_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/.idea/artifacts/projeto_individual_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/.idea/jar-individual-samu.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/out/artifacts/projeto_individual_jar/projeto-individual.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/dao/Conexao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/dao/NoctuDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/database/Conexao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/teste/Captura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/teste/Componente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/teste/Hardware.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/teste/TestePrototipo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/teste/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/target/classes/dao/Conexao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/target/classes/dao/NoctuDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/target/classes/database/Conexao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/target/classes/teste/Captura.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/target/classes/teste/Componente$Captura.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/target/classes/teste/Componente.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/target/classes/teste/Hardware.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/target/classes/teste/TestePrototipo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/target/classes/teste/Usuario.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/target/projeto-individual-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script-instalacao/DockerComandosUteis.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script-instalacao/ScriptInstalacao.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script-instalacao/comandosUteis.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script-instalacao/confBanco.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script-instalacao/dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script-instalacao/explicacoes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script-instalacao/install.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script-instalacao/java.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script-instalacao/orientações.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/noctu_looca_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/projeto_individual_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jar-individual-samu.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/projeto_individual_jar/projeto-individual.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dao/Conexao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dao/NoctuDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/database/Conexao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/teste/Captura.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/teste/Componente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/teste/Hardware.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/teste/TestePrototipo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/teste/Usuario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dao/Conexao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dao/NoctuDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/database/Conexao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/teste/Captura.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/teste/Componente$Captura.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/teste/Componente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/teste/Hardware.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/teste/TestePrototipo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/teste/Usuario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/projeto-individual-1.0-SNAPSHOT.jar" beforeDir="false" />
-    </list>
+    <list default="true" id="7a777818-93c5-499b-80a0-d41b05539756" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +49,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Aluno/Documents/repositórios/jar-individual-samu",
+    "last_opened_file_path": "C:/Users/Aluno/Documents/repositórios/jar-individual-samu/java",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",

@@ -104,10 +104,10 @@ public class TestePrototipo {
                         Componente componenteDisco = new Componente(1, 3, "7avsd9s0");
                         Componente componenteJanela = new Componente(1, 4, "dasd546a");
 
-                        dao.adicionarComponente(componenteCPU);
-                        dao.adicionarComponente(componenteRAM);
-                        dao.adicionarComponente(componenteDisco);
-                        dao.adicionarComponente(componenteJanela);
+                        dao.adicionarComponenteCPU(componenteCPU);
+                        dao.adicionarComponenteRAM(componenteRAM);
+                        dao.adicionarComponenteDisco(componenteDisco);
+                        dao.adicionarComponenteJanela(componenteJanela);
 
                         Double capacidadeMemoria = hardwareMemoria.getCapacidade() / 1024 / 1024 / 1024;
                         Double capacidadeJanela = grupoDeJanelas.getTotalJanelas().doubleValue();
